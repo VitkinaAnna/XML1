@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<professors>
+	<professor>
+		<name>Harchenko Ihor Ivanovich</name>
+		<department>FCSC</department>
+		<catedra>KNU</catedra>
+		<date>15.02.1950</date>
+		<degree>assistant</degree>
+		<sex>male</sex>
+	</professor>
+	<professor>
+		<name>Omelchuk Ludmila Leonidovna</name>
+		<department>FCSC</department>
+		<catedra>KNU</catedra>
+		<date>15.03.1970</date>
+		<degree>assistant</degree>
+		<sex>female</sex>
+	</professor>
+	<professor>
+		<name>Stavrovsiy Andriy Borisovich</name>
+		<department>FCSC</department>
+		<catedra>KNU</catedra>
+		<date>15.03.1955</date>
+		<degree>professor</degree>
+		<sex>male</sex>
+	</professor>
+	<professor>
+		<name>Shkilniak Stepan Stepanovich</name>
+		<department>FCSC</department>
+		<catedra>KNU</catedra>
+		<date>15.04.1965</date>
+		<degree>laborant</degree>
+		<sex>male</sex>
+	</professor>
+</professors>
